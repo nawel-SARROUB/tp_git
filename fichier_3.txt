@@ -1,1 +1,1 @@
-oui
+oui, modif sur la B alors quil est ignored

@@ -1,2 +1,5 @@
 bonsoir, fichier 2
+
 modif sur la A (c12)
+modif sur branche B
+brancheB

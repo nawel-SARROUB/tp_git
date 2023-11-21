@@ -1,3 +1,7 @@
+
 bonjour, fichier 1 
 modif sur bA
 remodif sur A
+
+bonjour, fichier 1 MODIF SUR BRANCHE B
+brancheB
